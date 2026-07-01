@@ -81,8 +81,8 @@
 <!-- List other CAOS policies, statements, or external references that connect to this policy.
      Use relative links for internal documents. -->
 
-- [CAOS Governance Document](GOVERNANCE.md)
-- [CAOS Code of Conduct](CODE_OF_CONDUCT.md)
+- [CAOS Governance Document](../GOVERNANCE.md)
+- [CAOS Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ---
 
@@ -95,3 +95,7 @@
 | Version | Date | Summary |
 |---------|------|---------|
 | 0.1 | YYYY-MM-DD | Initial draft |
+
+---
+
+*Template version: 0.1 — 2026-06-30*
