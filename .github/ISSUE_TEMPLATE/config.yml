@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Accessibility problem
+    url: mailto:accessibility@caos.org
+    about: Report an accessibility barrier in any CAOS governance document or process
+  - name: Contact CAOS
+    url: https://caos.org/contact/
+    about: General inquiries, volunteering, program suggestions, and other non-governance topics
