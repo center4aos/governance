@@ -29,7 +29,7 @@ This means:
 
 ### Institutional memory is a priority, not an afterthought
 
-Governance decisions, the reasoning behind them, and the context in which they were made are organizational assets. The CAOS decision record system (see [GOVERNANCE.md](GOVERNANCE.md)) is specifically designed to preserve this institutional knowledge for future leaders and community members.
+Governance decisions, the reasoning behind them, and the context in which they were made are organizational assets. The CAOS decision record system (see [GOVERNANCE.md](../GOVERNANCE.md)) is specifically designed to preserve this institutional knowledge for future leaders and community members.
 
 Meeting notes, decision records, and proposal histories are retained permanently. We do not discard the record of how we got here.
 
@@ -139,7 +139,7 @@ When a litigation hold is required:
 
 ## Related Documents
 
-- [CAOS Governance Document](GOVERNANCE.md)
+- [CAOS Governance Document](../GOVERNANCE.md)
 - [CAOS Bylaws](bylaws.md)
 - [CAOS Conflict of Interest Policy](conflict-of-interest-policy.md)
 

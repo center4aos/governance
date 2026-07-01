@@ -11,7 +11,7 @@ This repository contains the official governance documents, policies, and decisi
 | `GOVERNANCE.md` | How CAOS makes decisions and manages this repository |
 | `CONTRIBUTING.md` | How to get involved, ask questions, and propose changes |
 | `CODE_OF_CONDUCT.md` | Community standards and enforcement |
-| `policies/` | Organizational policies (accessibility, AI, conflict of interest, etc.) |
+| `policies/` | Organizational policies (accessibility, AI, bylaws, conflict of interest, etc.) |
 | `decisions/` | Permanent record of significant governance decisions |
 | `proposals/` | Policy proposals under active development |
 | `meeting-notes/` | Board and committee meeting records |

@@ -24,7 +24,7 @@ Not sure where your idea fits? Just reach out — see [Questions and contact](#q
 
 ## Before you contribute
 
-We want to make sure everyone feels welcome and understands how our community operates. Before engaging as a contributor, please read the [CAOS Code of Conduct](CODE_OF_CONDUCT.md) and the [CAOS Accessibility Policy](accessibility-policy.md). CAOS contributors are expected to understand and comply with both documents.
+We want to make sure everyone feels welcome and understands how our community operates. Before engaging as a contributor, please read the [CAOS Code of Conduct](CODE_OF_CONDUCT.md) and the [CAOS Accessibility Policy](policies/accessibility-policy.md). CAOS contributors are expected to understand and comply with both documents.
 
 ---
 

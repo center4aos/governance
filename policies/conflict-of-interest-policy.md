@@ -143,8 +143,8 @@ To ensure CAOS operates in a manner consistent with charitable purposes and does
 
 ## Related Documents
 
-- [CAOS Governance Document](GOVERNANCE.md)
-- [CAOS Code of Conduct](CODE_OF_CONDUCT.md)
+- [CAOS Governance Document](../GOVERNANCE.md)
+- [CAOS Code of Conduct](../CODE_OF_CONDUCT.md)
 - [CAOS Bylaws](bylaws.md)
 
 ---

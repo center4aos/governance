@@ -133,8 +133,8 @@ All CAOS events — virtual and in-person — should include:
 ## Related Documents
 
 - [CAOS Website Accessibility Statement](PLACEHOLDER)
-- [CAOS Governance Document](GOVERNANCE.md)
-- [CAOS Code of Conduct](CODE_OF_CONDUCT.md)
+- [CAOS Governance Document](../GOVERNANCE.md)
+- [CAOS Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ---
 

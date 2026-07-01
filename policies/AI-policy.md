@@ -134,8 +134,8 @@ AI is moving fast. This policy will be reviewed annually rather than on the stan
 ## Related Documents
 
 - [CAOS Accessibility Policy](accessibility-policy.md)
-- [CAOS Governance Document](GOVERNANCE.md)
-- [CAOS Code of Conduct](CODE_OF_CONDUCT.md)
+- [CAOS Governance Document](../GOVERNANCE.md)
+- [CAOS Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ---
 
