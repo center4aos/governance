@@ -78,7 +78,10 @@
 
 ## Related Documents
 
-<!-- List other CAOS policies, statements, or external references that connect to this policy.
+<!-- The two links below are EXAMPLES ONLY, showing the link format — they are not a
+     default or suggested list to copy into every policy. List only documents that have
+     a real, articulable connection to THIS policy's specific content. If you can't state
+     in one sentence why a document belongs here, leave it out.
      Use relative links for internal documents. -->
 
 - [CAOS Governance Document](../GOVERNANCE.md)
