@@ -1,5 +1,6 @@
 # CAOS Governance
 
+
 The Center for Accessibility and Open Source (CAOS) is a nonprofit organization
 dedicated to making technology more accessible and open to everyone. This document
 describes how CAOS governs its policies, decisions, and organizational documents.
@@ -82,6 +83,10 @@ Appointed by the Board as needed. Depending on document type, review may include
 Working Groups develop proposals and conduct stakeholder consultation on specific
 topics. They are established by Board resolution and report to the Board.
 
+### Advisory Board
+
+Members of the Advisory Board are knowledgeable and active stakeholders in one or more areas relevant to the CAOS mission. They often serve in working groups, participate in discussions, and are regularly invited to advise the Board of Directors in their areas of expertise. The Advisory Board is our most engaged group of contributors, and a staging ground for membership on the Board of Directors.
+
 ### Board
 
 The CAOS Board of Directors is responsible for:
@@ -94,7 +99,7 @@ The CAOS Board of Directors is responsible for:
 
 ## Policy Lifecycle
 
-All policy changes follow this workflow:
+All policy changes originating from the general CAOS community use the following workflow. Policy changes originating from the Board of Directors may follow a more streamlined trajectory, but will always maintain transparency.
 
 ```
 Proposal → Discussion → Revision → Review → Decision → Publication → Reassessment
@@ -103,8 +108,7 @@ Proposal → Discussion → Revision → Review → Decision → Publication →
 1. **Proposal** — Any contributor may open a GitHub issue or pull request
    proposing a new policy or change.
 2. **Discussion** — Open comment period of 14 days. If no clear progress is
-   made within 14 days, the issue is closed and must be re-opened, triggering
-   a new 14-day discussion period.
+   made within 14 days, the issue is closed and must be re-opened. The re-opening of the issue triggers    a new 14-day discussion period.
 3. **Revision** — The proposer incorporates feedback.
 4. **Review** — Subject Matter Reviewers and Editors assess the proposal.
 5. **Decision** — Approved by the appropriate authority (see Voting).
@@ -129,7 +133,7 @@ Every policy document follows this structure:
 - Responsibilities
 - Procedures
 - Related Documents
-- Revision History
+- Revision History (in chronological order)
 
 ---
 
