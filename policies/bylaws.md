@@ -1,3 +1,5 @@
+---
+---
 # Bylaws of The Center for Accessibility and Open Source
 
 The Center for Accessibility and Open Source — A California Non-profit Corporation

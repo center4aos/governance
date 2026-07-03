@@ -1,3 +1,5 @@
+---
+---
 # AI Tooling Memorandum
 
 This document should be read alongside the [CAOS AI Policy](ai-policy.md) — read and understand that policy before deciding how to incorporate AI into your CAOS workflow. This memo covers tool-specific guidance only; the policy covers the principles behind it.

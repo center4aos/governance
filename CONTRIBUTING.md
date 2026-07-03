@@ -1,3 +1,5 @@
+---
+---
 # Contributing to CAOS
 
 ## Welcome and orientation
