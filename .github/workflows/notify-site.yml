@@ -1,0 +1,16 @@
+name: Notify caostest of content changes
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.SITE_DISPATCH_TOKEN }}
+          repository: center4aos/caostest
+          event-type: submodule-updated
+          client-payload: '{"path": "governance/library", "key": "governance"}'
