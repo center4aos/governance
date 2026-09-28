@@ -36,15 +36,15 @@ Just as there are many different ways to contribute, there are many different wa
 
 | I want to… | Primary method | Alternative |
 |---|---|---|
-| Subscribe to the CAOS newsletter | [PLACEHOLDER: newsletter subscription link] | Contact page |
+| Subscribe to the CAOS newsletter | [Newsletter signup](https://caos.org/contact/#newsletter) | Contact page |
 | Suggest a policy change | Submit an issue in the [governance repository](https://github.com/center4aos) | "Submit an Issue" link at the bottom of any CAOS policy page |
 | Give website feedback | Submit an issue in the website repository | "Submit an Issue" link at the bottom of the relevant web page |
 | Get involved in a program or activity | Submit an issue in that program's repository | "Submit an Issue" link at the bottom of that program's page |
-| Suggest a program or activity | [Contact page](PLACEHOLDER) | programs@caos.org |
-| Volunteer or get involved | [Contact page](PLACEHOLDER) | volunteer@caos.org |
-| Apply to join the CAOS Advisory Board | [Contact page](PLACEHOLDER) | cab@caos.org |
-| Report an accessibility problem | [Contact page](PLACEHOLDER) | accessibility@caos.org |
-| Ask a general question | [Contact page](PLACEHOLDER) | info@caos.org |
+| Suggest a program or activity | [Contact page](https://caos.org/contact/) | programs@caos.org |
+| Volunteer or get involved | [Contact page](https://caos.org/contact/) | volunteer@caos.org |
+| Apply to join the CAOS Advisory Board | [Contact page](https://caos.org/contact/) | cab@caos.org |
+| Report an accessibility problem | [Contact page](https://caos.org/contact/) | accessibility@caos.org |
+| Ask a general question | [Contact page](https://caos.org/contact/) | info@caos.org |
 
 If you file something in the wrong place, don't worry — CAOS will redirect you. Within our GitHub organization, issues can be transferred between repositories without losing any history.
 
@@ -105,7 +105,7 @@ CAOS working groups and committees develop proposals, conduct community consulta
 
 CAOS is committed to both accessible outputs and accessible processes.
 
-**If GitHub is not accessible for you**, or if you prefer to participate another way, you can submit comments, questions, or proposals through our [Contact page](PLACEHOLDER) or by email to info@caos.org. We will ensure your contribution enters the public record and receives the same consideration as anything submitted through GitHub.
+**If GitHub is not accessible for you**, or if you prefer to participate another way, you can submit comments, questions, or proposals through our [Contact page](https://caos.org/contact/) or by email to info@caos.org. We will ensure your contribution enters the public record and receives the same consideration as anything submitted through GitHub.
 
 **If you need documents in an alternative format**, contact accessibility@caos.org and we will do our best to accommodate your request.
 
@@ -113,4 +113,4 @@ CAOS is committed to both accessible outputs and accessible processes.
 
 ## Questions and contact
 
-Not sure where to start? Send us a note through our [Contact page](PLACEHOLDER) or send email to info@caos.org.
+Not sure where to start? Send us a note through our [Contact page](https://caos.org/contact/) or send email to info@caos.org.
