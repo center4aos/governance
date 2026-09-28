@@ -31,7 +31,7 @@ If you encounter any accessibility issues on this site, please [contact us]({{ "
 
 ## Learn More
 
-This statement covers accessibility specific to this website. For our full organizational accessibility commitment, see the [CAOS Accessibility Policy]({{ "/accessibility-policy/" | relative_url }}).
+This statement covers accessibility specific to this website. For our full organizational accessibility commitment, see the [CAOS Accessibility Policy](accessibility-policy.md).
 
 ## Review Date
 

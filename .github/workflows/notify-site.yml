@@ -1,4 +1,4 @@
-name: Notify caostest of content changes
+name: Notify the CAOS website of content changes
 
 on:
   push:
@@ -11,6 +11,6 @@ jobs:
       - uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.SITE_DISPATCH_TOKEN }}
-          repository: center4aos/caostest
+          repository: center4aos/center4aos.github.io
           event-type: submodule-updated
           client-payload: '{"path": "governance/library", "key": "governance"}'
